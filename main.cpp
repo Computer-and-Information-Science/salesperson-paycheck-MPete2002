@@ -45,4 +45,6 @@ outdata << left << setw(15) << "Expenses: " << right << setw(15) << expenses << 
 outdata << right << setw(30) << "--------" << endl;
 outdata << left << setw(15) << "Total: " << right << setw(15) << total_pay << endl;
 
+indata.close();
+
 }
