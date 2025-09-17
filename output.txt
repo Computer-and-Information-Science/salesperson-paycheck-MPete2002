@@ -1,0 +1,6 @@
+Payroll data for Kathryn Janeway
+Base Salary:           1525.00
+Commission:             398.25(3.2% of 12253.78)
+Expenses:               195.75
+                      --------
+Total:                 2119.00
